@@ -1,6 +1,6 @@
 # Voice Transcriptor & Translator
+### A Vue.js application that allows users to transcribe speech and translate it into different languages.
 ![image](src/assets/img/preview.png)    
-A Vue.js application that allows users to transcribe speech and translate it into different languages.
 
 ## Features
 
