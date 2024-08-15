@@ -9,6 +9,8 @@
 - Supports Spanish, French, German, Italian, and Portuguese
 - User-friendly interface with responsive design
 
+## Known bug - Only work at google chrome atm
+
 ## Technologies Used
 
 - Vue.js 3
